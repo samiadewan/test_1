@@ -1,0 +1,8 @@
+C:\Users\BS1091\source\repos\GetSetmethod\GetSetmethod\obj\Debug\GetSetmethod.csproj.AssemblyReference.cache
+C:\Users\BS1091\source\repos\GetSetmethod\GetSetmethod\obj\Debug\GetSetmethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\BS1091\source\repos\GetSetmethod\GetSetmethod\obj\Debug\GetSetmethod.csproj.CoreCompileInputs.cache
+C:\Users\BS1091\source\repos\GetSetmethod\GetSetmethod\bin\Debug\GetSetmethod.exe.config
+C:\Users\BS1091\source\repos\GetSetmethod\GetSetmethod\bin\Debug\GetSetmethod.exe
+C:\Users\BS1091\source\repos\GetSetmethod\GetSetmethod\bin\Debug\GetSetmethod.pdb
+C:\Users\BS1091\source\repos\GetSetmethod\GetSetmethod\obj\Debug\GetSetmethod.exe
+C:\Users\BS1091\source\repos\GetSetmethod\GetSetmethod\obj\Debug\GetSetmethod.pdb
